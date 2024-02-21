@@ -1,0 +1,37 @@
+body {
+    background-color: #fffaac;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+  }
+  #h1{
+    color: #404467;
+  }
+  h1, h2, h3, p, button {
+    text-align: center;
+    color: #404467;
+  }
+  
+  #palavras_sorteadas, #resultado {
+    display: inline-block;
+    padding: 0 10px;
+  }
+  
+  #palpite {
+    width: 100px;
+    text-align: center;
+    border-radius: 10px;
+    border-color: #a3b6a2;
+  }
+  
+  button {
+    margin: 10px;
+    padding: 5px 10px;
+    border-radius: 10px;
+    border-color: #a3b6a2;
+  }
+  
